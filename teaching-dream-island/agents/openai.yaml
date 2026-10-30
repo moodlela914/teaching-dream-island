@@ -1,0 +1,4 @@
+interface:
+  display_name: "教學夢幻島建置"
+  short_description: "將新教材製成支援Markdown同步、3D室內、島民測驗與證書的夢幻島"
+  default_prompt: "請使用 $teaching-dream-island，讀取我提供的素材資料夾，依教材選擇主題與島數，保留Markdown同步、中央室內、平滑全景和自由滾輪，建立可實際使用並完成本機驗收的教學夢幻島；等我主動提出本次發布才部署。"
